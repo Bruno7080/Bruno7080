@@ -7,6 +7,8 @@ Estou estudando no Alura.
 
 Estou me desenvolvendo na linguagem JavaScript.
 
+![](https://media.tenor.com/3uEQjVlQ0gYAAAAi/beirao-licorbeirao.gif)
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 <!--
